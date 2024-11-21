@@ -1,5 +1,3 @@
-
-
 def dnc(base, combine):
     def logic_func(arr):
         if len(arr) == 1:

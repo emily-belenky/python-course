@@ -76,4 +76,3 @@ def fitness(points):
     for i in range(1,len(points)):
         sum+=dist(points[i-1],points[i])
     return sum
-
